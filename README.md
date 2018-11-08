@@ -26,7 +26,7 @@
 **[5]** Deep Reinforcement Learning in Parameterized Action Space, M. Hausknecht et al., ICLR, 2016.
 [[pdf]](https://arxiv.org/pdf/1511.04143.pdf) by *JongHyeok Kang(kingworm)*
 
-## Basic
+## Basics
 
 **[1]** Tambet Matiisen. "**Demystifying Deep Reinforcement Learning**." Computational Neuroscience Lab. (2015) [[post]](http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/) [[ppt]](https://www.slideshare.net/HogeonSeo/review-demystifying-deep-reinforcement-learning-written-by-tambet-matiisen) by *Hogeon Seo*
 
